@@ -1,0 +1,1000 @@
+0,chess,7603,138,15
+1,bungee jumping,9410,44,2
+2,fencing,2450,3,11
+3,volleyball,2282,197,7
+4,volleyball,9165,49,10
+5,fencing,9468,146,15
+6,kayaking,9834,124,9
+7,boating,7592,93,6
+8,surfing,8162,169,10
+9,volleyball,5137,174,20
+10,boxing,8547,114,16
+11,sprint,6065,114,9
+12,rowing,4576,167,20
+13,boxing,4086,136,18
+14,freestyle,8067,104,3
+15,curling,5400,181,13
+16,bungee jumping,4537,157,17
+17,golf,4640,89,17
+18,snowboarding,8736,110,3
+19,biathlon,8034,144,5
+20,skeleton,8465,136,7
+21,freestyle,2252,192,15
+22,rowing,2770,80,11
+23,chess,8249,148,17
+24,tennis,3555,10,19
+25,biathlon,8114,94,17
+26,golf,6436,5,7
+27,swimming,4643,4,13
+28,diving,2041,35,10
+29,golf,4946,126,9
+30,sprint,8828,59,8
+31,water polo,3369,194,7
+32,sprint,6160,165,14
+33,alpine skiing,4853,92,11
+34,tennis,8619,15,14
+35,kayaking,9621,86,7
+36,nordic combined,5789,174,16
+37,boating,9498,122,2
+38,darts,5728,118,3
+39,golf,9185,64,1
+40,kayaking,3536,72,2
+41,surfing,2681,103,9
+42,sprint,4956,159,20
+43,rowing,2408,65,15
+44,slalom,2536,98,15
+45,snowboarding,9143,76,20
+46,volleyball,4460,145,18
+47,aquatics,9474,78,20
+48,tennis,4178,198,3
+49,swimming,3141,150,13
+50,darts,7907,64,4
+51,diving,5474,182,12
+52,swimming,9553,134,9
+53,biathlon,3132,100,19
+54,rowing,6374,45,10
+55,freestyle,9313,49,3
+56,nordic combined,5840,91,4
+57,biathlon,4243,66,10
+58,snowboarding,4473,106,6
+59,kayaking,3825,11,4
+60,bungee jumping,4451,179,15
+61,fencing,5966,126,13
+62,tennis,6438,135,19
+63,kayaking,8398,74,2
+64,tennis,9763,17,7
+65,water polo,4563,143,12
+66,tennis,9384,199,10
+67,luge,8832,190,8
+68,freestyle,6525,46,18
+69,fencing,6830,166,19
+70,freestyle,9303,105,13
+71,luge,7924,73,20
+72,polo,8284,137,18
+73,boating,4988,98,1
+74,luge,7588,87,14
+75,volleyball,7169,158,1
+76,alpine skiing,6294,74,5
+77,skeleton,5738,145,15
+78,wind surfing,8037,48,20
+79,biathlon,2830,71,6
+80,chess,2817,8,4
+81,luge,3351,131,13
+82,freestyle,3229,126,20
+83,aquatics,4926,137,15
+84,wind surfing,6787,168,3
+85,snowboarding,5212,62,9
+86,snowboarding,7165,28,5
+87,luge,8386,10,14
+88,biathlon,6115,14,18
+89,snowboarding,5843,180,14
+90,luge,8918,168,9
+91,boating,3162,87,17
+92,surfing,8713,161,17
+93,aquatics,6526,122,9
+94,hockey,3140,153,7
+95,water polo,7083,36,20
+96,yachting,9601,64,10
+97,waterskiing,9820,160,10
+98,surfing,6808,85,12
+99,wind surfing,2478,175,14
+100,surfing,8487,12,6
+101,luge,6598,17,14
+102,sprint,8851,73,6
+103,boating,8467,183,7
+104,skeleton,8554,14,10
+105,swimming,5021,83,11
+106,fencing,9662,181,9
+107,chess,9010,156,17
+108,bungee jumping,9414,79,20
+109,bungee jumping,5384,149,9
+110,luge,7844,20,13
+111,hockey,5653,124,14
+112,polo,4751,74,1
+113,chess,8032,72,20
+114,kayaking,7258,179,1
+115,nordic combined,9742,100,1
+116,volleyball,8123,59,1
+117,bungee jumping,5072,61,6
+118,chess,6758,76,14
+119,darts,2598,185,5
+120,surfing,7132,87,14
+121,darts,6911,158,10
+122,yachting,5927,105,15
+123,swimming,5575,170,16
+124,skeleton,6202,183,20
+125,volleyball,6444,30,12
+126,skeleton,4224,68,8
+127,chess,2077,172,7
+128,hockey,5236,173,14
+129,snowboarding,7701,194,3
+130,bungee jumping,3926,102,4
+131,skeleton,9679,188,9
+132,yachting,2303,150,3
+133,diving,4446,86,5
+134,freestyle,2845,161,10
+135,golf,9967,65,10
+136,bungee jumping,8268,45,1
+137,surfing,6554,90,20
+138,bungee jumping,3800,70,11
+139,sprint,6541,80,12
+140,skeleton,6815,131,17
+141,fencing,6964,171,18
+142,skeleton,5938,89,7
+143,aquatics,9289,142,10
+144,bobsleign,9663,94,8
+145,snowboarding,5789,90,18
+146,fencing,9998,74,18
+147,surfing,4149,84,4
+148,skeleton,9924,54,19
+149,wind surfing,5195,77,14
+150,waterskiing,5592,11,12
+151,boating,9593,78,3
+152,freestyle,9004,82,5
+153,curling,5032,26,5
+154,rowing,5564,161,3
+155,diving,2662,147,16
+156,freestyle,3892,52,8
+157,biathlon,5077,180,13
+158,bobsleign,6206,143,11
+159,rowing,3170,154,11
+160,tennis,2267,169,19
+161,curling,4687,35,16
+162,kayaking,6458,189,12
+163,hockey,2998,97,12
+164,darts,9798,62,19
+165,surfing,7565,33,13
+166,aquatics,8236,13,12
+167,kayaking,5406,31,9
+168,aquatics,9206,129,8
+169,bobsleign,6352,139,17
+170,water polo,7370,42,18
+171,wind surfing,6342,156,4
+172,figure skating,8813,53,10
+173,kayaking,3309,189,18
+174,volleyball,5131,156,14
+175,tennis,9292,52,14
+176,bungee jumping,6181,143,6
+177,polo,6875,166,17
+178,aquatics,8882,174,11
+179,volleyball,4169,36,15
+180,aquatics,4237,46,10
+181,bungee jumping,6473,193,8
+182,curling,2628,164,12
+183,aquatics,9399,89,17
+184,nordic combined,6181,153,6
+185,luge,9973,162,7
+186,yachting,9817,158,12
+187,golf,7815,187,2
+188,swimming,9595,194,14
+189,snowboarding,2643,5,20
+190,diving,6331,170,7
+191,waterskiing,3338,191,11
+192,wind surfing,4436,98,10
+193,boxing,6556,190,4
+194,biathlon,4673,63,15
+195,slalom,8455,122,1
+196,water polo,3764,64,20
+197,skeleton,7338,10,6
+198,polo,6745,70,17
+199,tennis,2205,4,1
+200,swimming,5260,187,19
+201,hockey,8017,189,1
+202,hockey,5138,176,2
+203,golf,8777,83,12
+204,golf,9649,196,12
+205,skeleton,3539,97,11
+206,nordic combined,6092,60,19
+207,polo,6323,166,6
+208,snowboarding,2564,36,20
+209,snowboarding,2382,137,4
+210,water polo,7688,114,5
+211,waterskiing,5122,125,8
+212,tennis,7067,26,7
+213,biathlon,7608,5,4
+214,sprint,3617,140,2
+215,fencing,8663,19,8
+216,aquatics,9067,99,20
+217,wind surfing,7114,162,8
+218,tennis,7827,8,16
+219,wind surfing,9759,120,18
+220,yachting,3285,146,4
+221,water polo,2114,99,12
+222,kayaking,4235,107,5
+223,snowboarding,7163,47,16
+224,tennis,6516,136,6
+225,boating,2513,58,16
+226,skeleton,2068,119,19
+227,rowing,6230,25,18
+228,fencing,9571,144,5
+229,slalom,6966,63,13
+230,chess,8211,18,13
+231,golf,4117,9,4
+232,chess,5196,94,16
+233,volleyball,4065,166,1
+234,chess,9712,7,13
+235,boating,8001,99,12
+236,chess,5506,55,12
+237,tennis,9740,22,1
+238,hockey,7971,50,20
+239,aquatics,2170,152,12
+240,boating,9938,107,8
+241,figure skating,6668,6,9
+242,curling,7455,88,10
+243,bobsleign,6351,167,11
+244,kayaking,7048,80,8
+245,wind surfing,4999,185,19
+246,freestyle,8938,77,18
+247,darts,9160,36,20
+248,luge,8268,95,3
+249,volleyball,5309,61,2
+250,curling,7452,146,12
+251,luge,7739,166,17
+252,golf,6185,74,15
+253,bobsleign,3743,126,17
+254,skeleton,2937,173,4
+255,water polo,9103,189,2
+256,bobsleign,2738,86,13
+257,volleyball,4750,154,9
+258,boxing,8083,41,9
+259,hockey,8487,15,11
+260,alpine skiing,6133,50,10
+261,polo,4516,155,7
+262,biathlon,8453,19,19
+263,biathlon,3182,151,13
+264,alpine skiing,7684,154,10
+265,nordic combined,4219,132,18
+266,surfing,3774,173,15
+267,swimming,9432,98,4
+268,golf,5400,162,17
+269,snowboarding,6142,68,17
+270,swimming,4953,197,11
+271,darts,5384,115,18
+272,yachting,7879,107,6
+273,rowing,7804,82,11
+274,diving,6844,58,18
+275,skeleton,3891,129,12
+276,nordic combined,3172,49,16
+277,polo,8275,191,11
+278,luge,7029,117,17
+279,aquatics,4476,95,19
+280,kayaking,7359,15,18
+281,wind surfing,9730,37,7
+282,nordic combined,2598,17,3
+283,water polo,4807,193,17
+284,swimming,7251,103,10
+285,snowboarding,5336,64,13
+286,slalom,8524,66,19
+287,freestyle,6364,170,5
+288,bungee jumping,8132,144,20
+289,bungee jumping,8202,77,3
+290,yachting,7824,41,19
+291,volleyball,3775,89,16
+292,hockey,6756,165,6
+293,water polo,4363,17,2
+294,boxing,3724,19,19
+295,golf,2090,158,7
+296,kayaking,8257,135,17
+297,swimming,7917,84,9
+298,diving,3918,124,2
+299,tennis,4093,50,8
+300,chess,9614,79,17
+301,luge,6498,3,17
+302,boxing,5277,135,14
+303,kayaking,8505,149,1
+304,boating,5251,176,20
+305,wind surfing,5449,67,12
+306,golf,7553,143,14
+307,diving,8844,42,9
+308,hockey,9528,22,8
+309,kayaking,4137,62,12
+310,figure skating,7540,160,2
+311,luge,5284,86,8
+312,golf,8553,156,16
+313,fencing,9579,105,14
+314,snowboarding,5086,45,7
+315,rowing,6848,199,2
+316,yachting,2408,43,11
+317,boating,9602,43,3
+318,fencing,2086,185,13
+319,skeleton,9089,174,9
+320,alpine skiing,7570,53,12
+321,rowing,7369,52,20
+322,kayaking,6412,132,13
+323,hockey,7626,152,16
+324,swimming,6816,39,11
+325,skeleton,2933,19,18
+326,swimming,6702,146,4
+327,aquatics,4794,94,11
+328,boxing,9715,67,19
+329,golf,7551,53,6
+330,darts,9447,89,10
+331,aquatics,6916,171,3
+332,tennis,3499,92,6
+333,biathlon,7820,146,19
+334,nordic combined,8846,137,2
+335,freestyle,7257,97,13
+336,water polo,4897,53,8
+337,nordic combined,6468,34,19
+338,volleyball,5893,159,19
+339,sprint,7668,43,2
+340,darts,6634,136,1
+341,tennis,3667,133,7
+342,curling,8775,171,13
+343,curling,3772,70,15
+344,tennis,7016,75,12
+345,surfing,9510,6,13
+346,rowing,5425,15,13
+347,golf,3370,37,2
+348,luge,7734,174,17
+349,figure skating,6149,33,15
+350,polo,2710,53,14
+351,bobsleign,7952,9,4
+352,yachting,7195,96,18
+353,boxing,3517,180,11
+354,surfing,8927,28,18
+355,sprint,4489,58,15
+356,tennis,8486,104,4
+357,fencing,9657,15,14
+358,fencing,6772,31,18
+359,tennis,2744,68,17
+360,rowing,7022,99,4
+361,golf,9819,140,1
+362,surfing,8401,143,19
+363,snowboarding,2040,44,9
+364,rowing,4356,167,4
+365,nordic combined,2742,175,17
+366,freestyle,2050,125,18
+367,alpine skiing,3037,105,5
+368,bobsleign,5506,92,2
+369,diving,4555,181,10
+370,curling,7312,44,2
+371,figure skating,2119,191,9
+372,darts,6114,95,5
+373,curling,3833,45,17
+374,waterskiing,9934,198,15
+375,polo,9373,128,13
+376,luge,4699,13,9
+377,hockey,9777,72,1
+378,curling,2264,40,19
+379,volleyball,6655,125,13
+380,polo,7606,6,3
+381,chess,5090,96,2
+382,hockey,5015,70,8
+383,golf,6373,189,13
+384,golf,3227,68,8
+385,polo,7251,37,9
+386,diving,9260,74,8
+387,biathlon,9968,124,6
+388,luge,8568,21,6
+389,skeleton,9542,57,19
+390,rowing,3210,32,9
+391,wind surfing,5911,23,7
+392,yachting,7071,153,14
+393,kayaking,5399,92,20
+394,luge,2718,186,3
+395,curling,7211,176,9
+396,sprint,3849,112,17
+397,biathlon,8254,85,3
+398,diving,8178,196,20
+399,luge,5640,51,12
+400,diving,9709,167,18
+401,fencing,9492,46,17
+402,bobsleign,9083,185,13
+403,diving,2379,44,19
+404,rowing,8310,28,7
+405,diving,8649,120,9
+406,biathlon,4653,87,12
+407,freestyle,8167,141,19
+408,snowboarding,6801,140,20
+409,freestyle,9130,92,19
+410,wind surfing,9011,19,14
+411,skeleton,9065,149,11
+412,surfing,7779,66,13
+413,nordic combined,3157,68,8
+414,waterskiing,9254,81,9
+415,golf,2955,55,5
+416,luge,4960,26,16
+417,darts,5932,115,7
+418,volleyball,9731,17,5
+419,hockey,3200,149,13
+420,yachting,5758,51,4
+421,kayaking,4202,171,5
+422,yachting,3346,4,2
+423,yachting,5715,46,2
+424,fencing,7885,190,6
+425,freestyle,4532,47,4
+426,surfing,5715,73,10
+427,snowboarding,2606,67,7
+428,tennis,3431,133,4
+429,bobsleign,3550,158,17
+430,darts,5987,94,7
+431,snowboarding,2507,194,3
+432,surfing,5035,89,20
+433,kayaking,2148,51,10
+434,fencing,8419,67,16
+435,wind surfing,9684,48,14
+436,alpine skiing,6933,181,11
+437,sprint,5892,50,5
+438,hockey,5140,65,4
+439,water polo,5395,6,5
+440,sprint,3373,42,10
+441,swimming,3544,158,8
+442,water polo,4563,149,10
+443,skeleton,2567,11,7
+444,snowboarding,5342,65,19
+445,freestyle,2419,40,6
+446,wind surfing,9536,142,3
+447,surfing,9039,12,11
+448,figure skating,3363,118,12
+449,skeleton,4677,136,6
+450,luge,9697,51,8
+451,boxing,9046,16,3
+452,swimming,3486,177,20
+453,volleyball,5751,145,10
+454,kayaking,3233,148,5
+455,swimming,3388,142,15
+456,polo,4457,12,13
+457,bungee jumping,8915,22,10
+458,freestyle,6866,82,18
+459,fencing,3793,128,13
+460,chess,3570,97,7
+461,luge,8065,106,13
+462,boxing,6353,140,17
+463,bungee jumping,2503,130,7
+464,swimming,7773,31,20
+465,nordic combined,9549,114,6
+466,chess,9321,12,9
+467,alpine skiing,5656,84,20
+468,waterskiing,3825,100,10
+469,swimming,7687,147,2
+470,water polo,8257,9,1
+471,hockey,7362,125,13
+472,chess,4916,127,13
+473,boxing,5203,65,16
+474,slalom,3431,194,9
+475,nordic combined,8643,113,10
+476,volleyball,4509,17,6
+477,bungee jumping,3021,150,16
+478,boating,7059,140,7
+479,wind surfing,6964,151,8
+480,tennis,8287,12,15
+481,chess,5339,7,12
+482,alpine skiing,4077,9,20
+483,slalom,5773,109,14
+484,figure skating,7847,120,2
+485,skeleton,9774,128,4
+486,luge,2036,42,17
+487,figure skating,9952,79,16
+488,tennis,2187,49,4
+489,swimming,2651,18,20
+490,volleyball,2337,178,19
+491,waterskiing,9192,187,9
+492,water polo,2832,97,8
+493,sprint,6435,151,12
+494,golf,7594,16,13
+495,rowing,8913,71,17
+496,skeleton,8551,119,6
+497,figure skating,5439,104,15
+498,chess,3950,61,7
+499,tennis,8133,182,6
+500,skeleton,4910,97,18
+501,swimming,4661,84,19
+502,skeleton,9173,7,14
+503,waterskiing,5471,55,2
+504,bungee jumping,5201,81,14
+505,darts,6407,62,10
+506,chess,3620,165,12
+507,luge,7196,135,1
+508,bungee jumping,4551,129,14
+509,chess,6518,159,8
+510,rowing,5126,51,1
+511,freestyle,7889,138,20
+512,fencing,3015,160,11
+513,boxing,6389,69,7
+514,skeleton,8333,110,5
+515,boxing,6142,103,4
+516,rowing,3367,31,14
+517,water polo,7724,66,16
+518,wind surfing,9089,184,5
+519,luge,6443,18,11
+520,golf,8179,58,4
+521,nordic combined,4053,5,18
+522,curling,9418,100,20
+523,boxing,3300,45,1
+524,diving,7979,172,5
+525,kayaking,8264,60,4
+526,slalom,4382,101,1
+527,yachting,7256,116,3
+528,swimming,3262,65,4
+529,nordic combined,2073,22,12
+530,nordic combined,7359,197,16
+531,snowboarding,5968,86,4
+532,snowboarding,7453,83,10
+533,polo,5603,17,8
+534,figure skating,5240,26,15
+535,polo,3897,53,15
+536,tennis,8818,83,4
+537,kayaking,8430,191,18
+538,snowboarding,9528,3,12
+539,nordic combined,7967,75,8
+540,golf,8163,181,18
+541,sprint,2285,168,14
+542,sprint,4823,103,20
+543,slalom,3774,101,9
+544,snowboarding,7371,62,9
+545,skeleton,4837,148,6
+546,curling,3324,109,12
+547,fencing,8455,109,16
+548,water polo,7330,171,17
+549,figure skating,3878,104,17
+550,nordic combined,7037,117,13
+551,water polo,4575,197,11
+552,freestyle,2457,94,10
+553,diving,8991,115,12
+554,diving,5580,97,4
+555,wind surfing,8166,188,13
+556,boating,5765,66,6
+557,hockey,2807,88,18
+558,water polo,2737,114,14
+559,diving,8967,136,7
+560,swimming,4385,86,3
+561,skeleton,3593,82,3
+562,golf,4022,181,12
+563,tennis,3547,4,2
+564,rowing,2130,100,3
+565,water polo,9429,59,6
+566,slalom,4751,27,13
+567,chess,3831,144,17
+568,luge,7099,170,6
+569,waterskiing,2556,97,3
+570,figure skating,5313,93,18
+571,wind surfing,2107,17,3
+572,boating,2753,32,9
+573,golf,3561,175,10
+574,polo,2196,156,16
+575,golf,4334,102,15
+576,slalom,5849,136,14
+577,slalom,3135,178,18
+578,wind surfing,7321,67,20
+579,swimming,2758,78,7
+580,biathlon,7990,19,2
+581,kayaking,7894,171,13
+582,skeleton,6931,110,8
+583,snowboarding,2336,7,4
+584,alpine skiing,7661,190,13
+585,hockey,7823,71,3
+586,curling,8495,48,12
+587,figure skating,8301,115,18
+588,volleyball,7547,147,5
+589,slalom,2902,104,11
+590,waterskiing,3222,124,6
+591,kayaking,8374,180,10
+592,biathlon,8639,188,10
+593,bobsleign,5686,104,6
+594,swimming,4415,44,5
+595,kayaking,7865,194,12
+596,darts,5998,140,18
+597,bobsleign,7027,102,9
+598,yachting,2774,198,4
+599,alpine skiing,7602,29,18
+600,polo,3220,106,3
+601,surfing,8513,136,4
+602,skeleton,5107,91,3
+603,boxing,6078,70,11
+604,waterskiing,5576,102,12
+605,slalom,2275,120,16
+606,water polo,7680,152,2
+607,swimming,7546,165,19
+608,boxing,5250,119,4
+609,wind surfing,7425,20,18
+610,kayaking,9090,64,3
+611,water polo,2887,144,20
+612,nordic combined,7608,145,3
+613,snowboarding,5896,20,19
+614,luge,9011,103,20
+615,polo,5323,198,5
+616,waterskiing,4447,142,2
+617,golf,3141,192,19
+618,kayaking,2367,80,15
+619,surfing,9502,96,15
+620,polo,3275,70,9
+621,boxing,9312,161,11
+622,curling,6485,61,17
+623,alpine skiing,4065,124,17
+624,skeleton,2997,177,2
+625,tennis,8862,153,9
+626,luge,6066,118,1
+627,water polo,3752,22,6
+628,kayaking,4831,111,7
+629,skeleton,2141,84,9
+630,curling,5190,160,7
+631,slalom,2642,123,11
+632,diving,3120,88,9
+633,golf,4533,16,7
+634,biathlon,7699,13,1
+635,tennis,6741,51,5
+636,water polo,7343,152,14
+637,figure skating,2264,198,9
+638,kayaking,9086,120,7
+639,boating,8726,115,10
+640,kayaking,5916,50,13
+641,curling,5341,80,13
+642,slalom,7171,170,19
+643,waterskiing,5734,55,3
+644,chess,5810,89,15
+645,snowboarding,6455,192,20
+646,hockey,9695,173,4
+647,skeleton,4463,42,17
+648,kayaking,3686,111,7
+649,swimming,4027,148,1
+650,biathlon,9654,39,3
+651,alpine skiing,2460,172,19
+652,bobsleign,3087,42,18
+653,freestyle,4305,98,14
+654,hockey,4483,126,20
+655,water polo,7532,140,10
+656,swimming,3111,34,7
+657,snowboarding,5858,101,3
+658,biathlon,2389,73,4
+659,diving,7954,90,4
+660,kayaking,5968,143,13
+661,swimming,5226,173,19
+662,bungee jumping,6953,119,2
+663,curling,6661,24,20
+664,freestyle,2634,84,10
+665,rowing,9419,10,4
+666,freestyle,7900,125,16
+667,hockey,5439,91,19
+668,nordic combined,2199,100,5
+669,bungee jumping,9506,8,10
+670,hockey,3565,75,20
+671,figure skating,2783,130,13
+672,yachting,5872,127,15
+673,bobsleign,7939,63,1
+674,darts,6561,189,15
+675,fencing,4232,133,7
+676,polo,6803,170,7
+677,kayaking,6228,44,10
+678,biathlon,6543,123,8
+679,tennis,7885,120,7
+680,bungee jumping,7213,152,4
+681,rowing,8624,28,18
+682,kayaking,3392,158,6
+683,water polo,3195,130,15
+684,surfing,8238,23,14
+685,surfing,5250,77,14
+686,yachting,7962,23,5
+687,yachting,9437,144,2
+688,golf,2807,192,4
+689,water polo,5538,149,2
+690,hockey,7702,191,18
+691,aquatics,8260,119,16
+692,sprint,6176,136,8
+693,fencing,3078,191,1
+694,slalom,4194,3,17
+695,polo,2271,106,18
+696,luge,7440,68,20
+697,fencing,8977,25,8
+698,darts,7646,77,11
+699,boating,8257,167,20
+700,sprint,4611,193,11
+701,kayaking,7469,74,9
+702,kayaking,2243,194,9
+703,water polo,4919,107,9
+704,fencing,4564,152,9
+705,volleyball,7645,130,11
+706,slalom,3229,74,16
+707,wind surfing,7642,49,12
+708,kayaking,6117,109,14
+709,sprint,8594,97,4
+710,figure skating,9627,94,5
+711,aquatics,5854,181,7
+712,waterskiing,6111,175,10
+713,nordic combined,9798,181,14
+714,curling,9661,47,9
+715,aquatics,7888,158,4
+716,yachting,8654,30,20
+717,figure skating,9155,138,7
+718,swimming,9462,64,20
+719,chess,3381,111,3
+720,yachting,9086,173,20
+721,luge,4392,169,1
+722,water polo,6578,174,1
+723,boxing,9526,38,4
+724,luge,2296,63,7
+725,skeleton,8750,171,13
+726,rowing,5661,12,18
+727,curling,3579,97,7
+728,rowing,3867,20,16
+729,biathlon,3931,21,10
+730,kayaking,7256,31,14
+731,fencing,5845,184,16
+732,nordic combined,8111,120,1
+733,luge,5427,30,20
+734,swimming,7809,4,15
+735,rowing,9154,198,8
+736,darts,6379,184,15
+737,figure skating,4385,175,13
+738,rowing,5010,199,8
+739,golf,9687,182,14
+740,skeleton,8684,82,11
+741,luge,4404,162,5
+742,boxing,2232,48,8
+743,fencing,7863,105,7
+744,diving,6879,175,8
+745,figure skating,9585,194,11
+746,kayaking,4793,151,14
+747,boating,4228,11,20
+748,slalom,5306,10,18
+749,tennis,7410,63,9
+750,golf,2854,45,20
+751,alpine skiing,2702,116,15
+752,swimming,5206,147,2
+753,nordic combined,9364,121,1
+754,hockey,9285,14,14
+755,aquatics,3046,63,19
+756,surfing,8854,198,6
+757,kayaking,6608,136,16
+758,biathlon,7500,45,20
+759,boating,9738,146,16
+760,hockey,5165,110,3
+761,biathlon,8800,97,12
+762,figure skating,6126,70,1
+763,nordic combined,6290,115,1
+764,darts,5986,112,9
+765,bobsleign,6804,135,11
+766,waterskiing,5615,151,9
+767,kayaking,5483,96,4
+768,waterskiing,8888,197,5
+769,waterskiing,9153,134,9
+770,boxing,8890,27,16
+771,surfing,6610,59,17
+772,boxing,2922,3,13
+773,diving,5689,49,19
+774,kayaking,5297,38,16
+775,nordic combined,8634,56,1
+776,waterskiing,6504,198,12
+777,polo,6071,124,8
+778,skeleton,6284,164,7
+779,fencing,5032,75,14
+780,figure skating,7165,132,12
+781,curling,5931,134,10
+782,skeleton,6541,101,11
+783,freestyle,4568,49,12
+784,aquatics,4015,3,4
+785,alpine skiing,9982,162,6
+786,biathlon,4014,84,11
+787,chess,3843,62,20
+788,surfing,8227,29,5
+789,biathlon,8305,36,2
+790,aquatics,6725,72,13
+791,curling,9248,78,4
+792,biathlon,3069,128,19
+793,darts,8713,114,2
+794,rowing,8490,183,19
+795,aquatics,5686,139,7
+796,boating,6005,20,11
+797,kayaking,3940,68,10
+798,alpine skiing,8908,189,5
+799,golf,4900,134,1
+800,fencing,5785,47,18
+801,wind surfing,9865,119,1
+802,fencing,6206,37,3
+803,rowing,2625,198,12
+804,freestyle,5983,96,7
+805,yachting,9480,126,7
+806,freestyle,6694,198,6
+807,waterskiing,6834,89,12
+808,bobsleign,5240,20,8
+809,skeleton,4615,184,7
+810,figure skating,8987,30,18
+811,slalom,7190,50,17
+812,alpine skiing,6965,77,14
+813,polo,9432,123,7
+814,golf,2010,52,2
+815,boating,3747,28,14
+816,boxing,2479,172,5
+817,golf,8250,85,9
+818,wind surfing,5433,97,7
+819,figure skating,4314,3,6
+820,boxing,2338,115,5
+821,figure skating,7579,82,12
+822,bobsleign,8293,65,18
+823,alpine skiing,4510,59,18
+824,snowboarding,4856,19,4
+825,tennis,4491,79,20
+826,figure skating,2081,88,17
+827,bungee jumping,6809,73,15
+828,curling,6897,177,15
+829,boxing,9221,107,4
+830,hockey,9537,130,6
+831,yachting,6615,36,16
+832,water polo,3604,6,10
+833,slalom,4168,106,15
+834,rowing,7531,173,16
+835,boating,6214,43,13
+836,sprint,3974,147,18
+837,figure skating,7454,137,12
+838,wind surfing,9226,153,16
+839,aquatics,9625,148,18
+840,surfing,2816,32,10
+841,water polo,3941,79,4
+842,golf,7288,157,3
+843,water polo,5116,102,15
+844,boating,5934,104,5
+845,yachting,7773,120,4
+846,boating,3383,107,19
+847,swimming,4013,72,9
+848,wind surfing,2287,129,13
+849,biathlon,7721,114,17
+850,boating,8203,10,17
+851,darts,7791,28,6
+852,polo,7676,155,2
+853,curling,4371,193,8
+854,surfing,6968,33,20
+855,bungee jumping,4594,114,6
+856,swimming,2852,174,13
+857,diving,9744,146,3
+858,diving,6742,4,19
+859,diving,5513,42,7
+860,diving,3086,167,19
+861,skeleton,9797,80,18
+862,snowboarding,9537,69,1
+863,curling,6119,68,20
+864,fencing,8911,34,16
+865,golf,6331,200,19
+866,sprint,8913,156,3
+867,rowing,4687,100,6
+868,snowboarding,5335,35,12
+869,waterskiing,4111,12,18
+870,curling,5318,33,1
+871,nordic combined,7886,176,4
+872,fencing,2380,191,17
+873,skeleton,3580,74,6
+874,boxing,9066,20,10
+875,wind surfing,6155,117,8
+876,bobsleign,6122,143,2
+877,polo,5184,80,10
+878,figure skating,3988,143,3
+879,tennis,7568,196,5
+880,biathlon,9952,166,11
+881,diving,9724,96,9
+882,surfing,5116,63,8
+883,golf,5990,73,11
+884,polo,4154,191,16
+885,alpine skiing,5706,134,18
+886,aquatics,3403,55,4
+887,chess,4466,35,9
+888,fencing,9874,86,8
+889,swimming,7577,4,15
+890,waterskiing,7702,28,17
+891,snowboarding,9722,73,3
+892,freestyle,7268,190,10
+893,polo,8799,19,18
+894,snowboarding,6270,96,13
+895,surfing,8195,174,4
+896,curling,6709,51,9
+897,boxing,9560,41,2
+898,aquatics,6828,80,6
+899,tennis,8520,148,7
+900,polo,5019,73,20
+901,diving,2773,110,7
+902,kayaking,7811,99,18
+903,yachting,8808,122,5
+904,diving,8859,176,4
+905,yachting,4627,108,3
+906,golf,7902,82,4
+907,waterskiing,2258,60,12
+908,boating,8611,33,14
+909,darts,5534,195,15
+910,tennis,9075,63,12
+911,aquatics,6242,123,6
+912,volleyball,3326,136,5
+913,chess,3110,126,9
+914,freestyle,8080,124,17
+915,slalom,5611,140,10
+916,bungee jumping,6831,21,2
+917,golf,3925,151,1
+918,alpine skiing,6664,179,20
+919,polo,7389,137,2
+920,chess,7380,91,6
+921,tennis,4721,141,9
+922,kayaking,5475,147,11
+923,volleyball,4840,15,5
+924,tennis,2662,57,19
+925,figure skating,6781,49,14
+926,boxing,7360,159,5
+927,hockey,7750,57,10
+928,hockey,6556,194,7
+929,biathlon,8596,4,5
+930,hockey,4453,175,4
+931,curling,4205,49,15
+932,kayaking,2898,185,3
+933,rowing,4131,77,15
+934,sprint,5592,88,4
+935,wind surfing,5580,35,4
+936,water polo,2874,64,1
+937,wind surfing,8241,130,10
+938,tennis,8947,13,11
+939,waterskiing,7449,41,4
+940,alpine skiing,7841,59,1
+941,skeleton,3494,7,14
+942,kayaking,5810,47,3
+943,figure skating,7719,64,7
+944,bungee jumping,5159,44,10
+945,darts,7645,138,18
+946,luge,4388,15,17
+947,surfing,2147,100,9
+948,chess,3177,92,3
+949,freestyle,5935,4,8
+950,aquatics,4101,109,17
+951,bobsleign,6094,118,7
+952,yachting,8224,17,7
+953,diving,2376,96,19
+954,chess,7704,132,15
+955,luge,6603,96,2
+956,surfing,7699,126,20
+957,boating,4071,39,17
+958,bungee jumping,8585,178,13
+959,freestyle,6578,6,7
+960,rowing,9870,66,20
+961,freestyle,3307,5,2
+962,rowing,6100,26,4
+963,skeleton,4891,155,20
+964,sprint,3558,173,13
+965,boating,8414,138,7
+966,aquatics,9919,32,17
+967,sprint,5078,85,7
+968,waterskiing,6341,13,19
+969,rowing,3854,57,8
+970,bungee jumping,6029,84,13
+971,skeleton,3640,8,5
+972,diving,7251,70,20
+973,volleyball,4901,130,18
+974,sprint,3459,92,18
+975,water polo,6297,84,1
+976,golf,7440,168,4
+977,tennis,4376,74,20
+978,alpine skiing,7776,5,13
+979,nordic combined,7169,118,4
+980,biathlon,8039,30,2
+981,golf,3472,122,2
+982,aquatics,4193,15,4
+983,sprint,4297,4,16
+984,yachting,8907,125,7
+985,rowing,9450,66,6
+986,surfing,5579,190,8
+987,darts,3288,147,11
+988,skeleton,6438,112,6
+989,aquatics,5338,67,10
+990,water polo,3364,194,8
+991,biathlon,7540,98,5
+992,alpine skiing,8544,45,14
+993,bobsleign,7913,200,20
+994,volleyball,6874,192,9
+995,bobsleign,8872,168,9
+996,kayaking,7342,36,1
+997,tennis,3219,89,7
+998,aquatics,5605,193,4
+999,slalom,4352,21,18

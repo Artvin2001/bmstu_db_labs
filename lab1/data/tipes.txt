@@ -1,0 +1,85 @@
+cross country race
+discus jump
+high jump
+hurdle race
+javeline throw
+jogging
+long distance race
+long jump
+marathon race
+pole vaulting
+sprint
+aquatics
+boating
+canoeing
+diving
+freestyle
+kayaking
+regatta
+rowing
+synchronized swimming
+surfing
+swimming
+yachting
+yacht racing
+water polo
+waterskiing
+windsurfing
+alpine skiing
+biathlon
+bobsleigh
+cross-country skinng
+curling
+figure skating
+freestyle skiing
+ice hockey
+luge
+nordic combined
+skeleton
+ski jumping
+slalom
+snowboarding
+speed skating
+base jumping
+bungee jumping
+hang gliding
+freestyle motocross
+parachuting
+skydiving
+rock climbing
+skysurfing
+aerobics
+archery
+artistic gymnatics
+badminton
+beach volleyball
+biliards
+bowling
+boxing
+cra racing
+chess
+cycling
+darts
+draughts
+equestrin jumping
+fencing
+fishing
+golf
+handball
+hiking
+karate
+lawn tennis
+martial arts
+mountaineering
+orienteering
+polo
+rhythmic gymnastics
+rollerblading
+shooting
+skate boarding
+squash
+table tennis
+triathlon
+tug of war
+weightlifting
+wrestling
